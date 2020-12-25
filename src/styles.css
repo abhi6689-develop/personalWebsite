@@ -1,0 +1,14 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.home-page {
+    background: linear-gradient(60deg, #222831 0%, #393e46 90%);
+    padding: 0 , 0;
+    place-items: center;
+    min-height: 100vh;
+    min-width: 200vh;
+}
+.bg {
+    color: #9d0191;
+}
